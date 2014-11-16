@@ -1,5 +1,5 @@
 /*
-  @ Andrew Li (FakeKane)
+  @ Andrew Li (EchoAce)
   Oct, 2014
   Generates theses for short papers given an e-text.
 */
